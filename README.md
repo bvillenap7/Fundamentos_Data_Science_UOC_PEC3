@@ -9,5 +9,5 @@ Archivo de entrega ***`prog_datasci_3_apython_entrega.ipynb`***
 Ejecutar ***`prog_datasci_3_apython_entrega.ipynb`*** en entorno **Jupyter NoteBook, Anaconda Navigator o Google Colab**.
 
 Conceptos básicos de programación en Python.    
-Uso de platadorma ***Stack Overflow***
+Uso de plataforma ***Stack Overflow***
 
